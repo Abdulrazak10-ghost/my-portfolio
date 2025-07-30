@@ -380,7 +380,7 @@ form .btn2{
     
 }
 nav .fas{
-    display: hidden;
+    display: none;
 }
 #msg{
     color: #61b752;

@@ -319,7 +319,9 @@ form .btn2{
 
 }
 /*--------css for small screen-------*/
-
+nav .fas{
+    display: none;
+}
 @media only screen and (max-width: 600px){
     
     .header-text{
@@ -379,9 +381,7 @@ form .btn2{
     }
     
 }
-nav .fas{
-    display: none;
-}
+
 #msg{
     color: #61b752;
     margin-top: -20px;
